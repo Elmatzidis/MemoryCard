@@ -78,11 +78,3 @@ npm run build
 ```bash
 npm run preview
 ```
-
-## Deployment
-
-The project can be deployed using Netlify by connecting the GitHub repository.
-
-- **Build command:** `npm run build`
-- **Publish directory:** `dist`
-- **Production branch:** `main`
